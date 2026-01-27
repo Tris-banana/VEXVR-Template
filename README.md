@@ -9,4 +9,4 @@ Feel free to download this template and use it as you please!
 - Move the robot with the bot.moveTo(x-coordinate, y-coordinate, error: plus or minus mm to adjust movement) method
 - Turn the robot with the bot.turnTo(angle, true or false: wait for the turn to finish or not) method
 
-With that, you should be good to go and start creating your own virtual autonomous routines!
+With that, you should be good to go to start creating your own virtual autonomous routines!
