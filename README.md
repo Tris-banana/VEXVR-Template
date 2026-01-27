@@ -2,6 +2,8 @@
 
 Generalized Python template created by team 45519X RefleX made for the VEX virtual reality playground. 
 
+Feel free to download this template and use it as you please!
+
 # How to use the template
 - Depending on which playground you are using, you have to replace the auto-generated code with the auto-generated code from that playground
 - Move the robot with the bot.moveTo(x-coordinate, y-coordinate, error: plus or minus mm to adjust movement) method
